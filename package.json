@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/SitnevVladislav/osmtu-programming/issues"
   },
-  "homepage": "https://github.com/SitnevVladislav/osmtu-programming#readme"
+  "homepage": "https://github.com/SitnevVladislav/osmtu-programming#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "ts-luxon": "^4.2.2"
+  }
 }
